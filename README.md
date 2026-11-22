@@ -1,3 +1,42 @@
+<div align="center">
+
+**SMART HOME PROTOTYPE · ARDUINO · SENSOR AUTOMATION**
+
+# A Small Home That Responds
+
+### Rain outside. A response built into the model.
+
+[Explore the project](#project-overview) · [Documentation](#project-documentation) · [Contact the developer](mailto:louise.catala24@gmail.com)
+
+</div>
+
+<p align="center">
+  <img src="docs/images/prototype.jpeg" alt="Actual miniature bungalow prototype with roof, door, and surrounding model base" width="1000">
+</p>
+
+<p align="center"><em>Actual bungalow prototype photograph extracted from Manuscript.pdf, page 13.</em></p>
+
+## Project overview
+
+This smart-home model explores two everyday actions: opening a door when someone approaches and retracting a clothesline when rain is detected. Sensors, an Arduino, and servo-driven mechanisms turn those inputs into visible movement.
+
+| At a glance | What it means |
+| --- | --- |
+| **Approach sensing** | An ultrasonic sensor supplies the door input |
+| **Rain response** | A rain sensor controls the clothesline response |
+| **Visible feedback** | Movement and a buzzer demonstrate the sequence |
+
+## Everyday problems, hands-on engineering
+
+The miniature house gives the electronics a physical context. The manuscript documents the prototype, construction process, and reported tests; the circuit sheet shows the wiring. Use the current repository sketch, `arduino_CODE.ino`, when following the original setup notes. This is a model-scale demonstration.
+
+[Read the project manuscript](Manuscript.pdf) · [Open the circuit diagram](circuit%20diagram.pdf) · [View the Arduino sketch](arduino_CODE.ino)
+
+## Project documentation
+
+<details>
+<summary><strong>Open the original project notes, files, and setup instructions</strong></summary>
+
 # Smart Home Automation
 
 An Arduino-based automatic door and rain-sensing retractable clothesline system.
@@ -34,6 +73,11 @@ Connect the Arduino, sensors, and servo supply grounds together.
 5. Select Arduino Uno and the correct port.
 6. Upload the code.
 
+
+
+</details>
+
+---
 
 ## License and Support
 
