@@ -14,7 +14,7 @@
   <img src="docs/images/prototype.jpeg" alt="Actual miniature bungalow prototype with roof, door, and surrounding model base" width="1000">
 </p>
 
-<p align="center"><em>Actual bungalow prototype photograph extracted from Manuscript.pdf, page 13.</em></p>
+<p align="center"><em>Actual bungalow prototype photograph</em></p>
 
 ## Project overview
 
