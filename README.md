@@ -33,3 +33,12 @@ Connect the Arduino, sensors, and servo supply grounds together.
 4. Change `i < 26` to `i < 25` in the melody loop.
 5. Select Arduino Uno and the correct port.
 6. Upload the code.
+
+
+## License and Support
+
+Copyright © 2026 Orland Louise Catala. All rights reserved for my original work, except where an existing license states otherwise. Third-party materials remain subject to their respective licenses.
+
+Please do not copy, modify, redistribute, sell, or claim my original project files as your own without my permission.
+
+I’m a student developer with limited financial resources, and these projects represent many hours of effort. Please respect and support my work. If you would like a copy of the project files, contact me at **[louise.catala24@gmail.com](mailto:louise.catala24@gmail.com)** to discuss a cheap price. Your support helps me continue studying and creating.
